@@ -1,5 +1,5 @@
 # 🚀 Evol Group – Repositorios de Software
-![EVOL.CL](src/static/images/evol-logo-horizontal.png)
+![EVOL.CL](evol-logo-horizontal.png)
 
 Bienvenido al repositorio oficial de desarrollo del grupo **Evol**.
 

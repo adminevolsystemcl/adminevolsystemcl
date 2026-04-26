@@ -2,10 +2,6 @@
 
 Bienvenido al repositorio oficial de desarrollo del grupo **Evol**.
 
-## 🌐 Sobre Evol
-
-**Evol.cl** y **Evolsystem.cl** son las marcas que representan el ecosistema tecnológico del grupo Evol. Nuestro enfoque está en el desarrollo de soluciones digitales modernas, escalables y orientadas a resolver necesidades reales tanto para empresas como para usuarios finales.
-
 ## 📦 ¿Qué encontrarás en este repositorio?
 
 Este repositorio centraliza los distintos proyectos de software desarrollados por el grupo Evol, incluyendo:
@@ -27,16 +23,6 @@ El objetivo de este repositorio es:
 * Mantener estándares de calidad y consistencia
 * Servir como base para nuevos desarrollos
 
-## 🛠️ Tecnologías
-
-Dependiendo del proyecto, utilizamos diversas tecnologías modernas como:
-
-* JavaScript / TypeScript
-* Node.js
-* Frameworks frontend (React, Vue, etc.)
-* Bases de datos SQL y NoSQL
-* Arquitecturas basadas en microservicios
-
 ## 🤝 Contribuciones
 
 Este es un repositorio activo. Si formas parte del equipo Evol:
@@ -52,4 +38,4 @@ La licencia dependerá de cada proyecto específico dentro del repositorio.
 
 ---
 
-💡 *Evol Group – Construyendo soluciones tecnológicas que evolucionan contigo.*
+💡 *Evol – Creando Plataformas Tecnologicas de Siguiente Generacion*

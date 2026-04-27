@@ -1,4 +1,4 @@
-![EVOL.CL](evol-logo-horizontal-2026.png)
+![EVOL.CL](evol-tipografia-2026.png)
 
 Bienvenido al repositorio oficial de desarrollo del grupo **Evol**.
 
@@ -39,3 +39,4 @@ La licencia dependerá de cada proyecto específico dentro del repositorio.
 ---
 
 💡 *Evol – Creando Plataformas Tecnologicas de Siguiente Generacion*
+![EVOL.CL](evol-logo-horizontal-2026.png)
